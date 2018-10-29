@@ -1,7 +1,4 @@
-# non-markdown-staticgen
 Static generators processing any content besides markdown
-
-
 ----
 
 Non-Markdown Static Generators
